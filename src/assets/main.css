@@ -1,0 +1,25 @@
+@import './base.css';
+
+#app {
+    padding-left: 10vw;
+    padding-right: 10vw;
+    font-weight: normal;
+    background-color: #f7ebdd;
+}
+
+.btn-outline-secondary {
+    border: 2px solid;
+    border-color: darkblue;
+}
+
+
+
+@media (hover: hover) {
+  
+}
+
+@media (min-width: 1024px) {
+    #app {
+        color: black;
+    }
+}
